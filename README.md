@@ -7,6 +7,10 @@ This bot is fully customisable and assembled for a private discord server named 
 
 The language of the bot is in French, i will probably try to make the bot in English language.
 
+# Usage
+
+The prefix of the bot is "m!".
+
 # Statut
 
 The bot is still in development.
